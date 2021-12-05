@@ -1,0 +1,30 @@
+body {
+    background: #1e1f24;
+    color: #333;
+    text-align: left;
+    font-family: "Arial, Helvetica, sans-serif";
+    font-size: 16px;
+    margin: 0;
+    padding: 100px;
+    text-align: center;
+}
+#programador {
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#contenido{
+    padding-block: 100px;
+}
+.h3{
+    background-color: rgb(47, 27, 177);
+}
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
